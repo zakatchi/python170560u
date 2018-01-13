@@ -1,2 +1,2 @@
-web:gunicorn python170560u:app
+web: gunicorn python170560u:app
 
